@@ -1,0 +1,38 @@
+.navbar-brand img{
+    height: 5rem;
+    width: 8rem;
+}
+
+form img{
+    height: 6rem;
+    width: 10rem;
+}
+.main-box{
+    /* border: 2px solid red; */
+    /* background-color: aqua; */
+    display: flex;
+    padding-left: 6rem;
+    align-items: center;
+    justify-content: flex-start;
+    height: 85vh;
+    width: 100%;
+    background-image: url(/img/front\ page.jpg);
+    background-size: cover;
+    background-position: center ;
+    background-repeat: no-repeat;
+}
+
+.form{
+     /* border: 3px solid black; */
+     justify-content: center;
+     align-items:center;
+     display: flex;
+     height:29rem;
+     width: 25rem;
+     flex-direction: column;
+     /* background-color: rgb(227, 222, 209); */
+     border-radius: 1rem;
+     box-shadow: 5px 4px 2px 2px rgba(0, 0, 0, 0.31);
+     /* background-image: url(../img/secn.jpg); */
+}
+
